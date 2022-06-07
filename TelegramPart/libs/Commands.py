@@ -1,0 +1,6 @@
+exit = "/exit"
+end = "/end"
+start = "/start"
+menu = "/menu"
+login = "/login"
+look = "/look"
